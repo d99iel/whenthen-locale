@@ -10,7 +10,10 @@ Thank you for taking the time to contribute to making the Whenthen app available
 ## Contributing
 If you would like to add or correct locales, read below.
 
-Create a pull request with desired change.  
+1) Fork the repository.  
+2) Create a new branch and make the changes in your copy.
+3) Create a pull request against this repository.
+
 A great start would be to copy the [en.json](locales/en.json) and use as a template.  
 Naming convention used: [i18n.json](i18n.json).  
 
