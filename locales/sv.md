@@ -1,7 +1,7 @@
 # App Store & Google Play
 
 ## Keywords (100 character limit)
-countdown,widget,widgets,räkna ner,nedräkning,event,timer,semester,sommar,födelsedag,kul,dela,....
+countdown,widget,widgets,räkna ner,nedräkning,event,timer,semester,sommar,födelsedag,kul,dela,vän,du
 
 ## Description
 Håll koll på kommande och passerade händelser.

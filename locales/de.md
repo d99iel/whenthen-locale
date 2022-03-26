@@ -1,7 +1,7 @@
 # App Store & Google Play
 
 ## Keywords (100 character limit)
-Countdown, widget, widgets, Anzahl, Ereignistag,Ereignis-Timer,Ereignis-Countdown,Tage bis,Neujahr
+countdown,widget,widgets,zählung,ereignis,birthday,timer,tag,tage,urlaub,sommer,winter,spaß,teilen
 
 ## Description
 Verfolgen Sie kommende und vergangene Veranstaltungen.

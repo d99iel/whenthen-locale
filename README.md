@@ -15,7 +15,7 @@ Not familiar with git? Send your changes via [email](mailto:whenthen@d99.se) ins
 
 ## Current languages supported
 <!-- https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md#flags -->
-|:white_flag:|App locale|Appstore & Playstore|
+||App locale|Appstore & Playstore|
 |----------------|----------|--------------------|
 |:de:|[de.json](locales/en.json)|[de.md](locales/en.md)|
 |:sweden:|[sv.json](locales/en.json)|[sv.md](locales/en.md)|

@@ -25,6 +25,6 @@ Send the event to friends and family or share it in your favourite social media 
 
 And more features to come.
 
-Möchten Sie einen Beitrag leisten, indem Sie Sprachen hinzufügen oder korrigieren? Lesen Sie hier mehr: https://github.com/d99iel/whenthen-locale
+Want to contribute by adding or correcting languages? Read more here: https://github.com/d99iel/whenthen-locale
 
 Enjoy!
