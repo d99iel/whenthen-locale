@@ -17,6 +17,8 @@ Not familiar with git? Send your changes via [email](mailto:whenthen@d99.se) ins
 <!-- https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md#flags -->
 ||App locale|Appstore & Playstore|
 |----------------|----------|--------------------|
+|:denmark:|[da.json](locales/da.json)|[da.md](locales/da.md)|
 |:de:|[de.json](locales/en.json)|[de.md](locales/en.md)|
-|:sweden:|[sv.json](locales/en.json)|[sv.md](locales/en.md)|
 |:us:|[en.json](locales/en.json)|[en.md](locales/en.md)|
+|:norway:|[nn.json](locales/nn.json)|[nn.md](locales/nn.md)|
+|:sweden:|[sv.json](locales/en.json)|[sv.md](locales/en.md)|
