@@ -6,7 +6,7 @@ countdown,widget,widgets,zählung,ereignis,birthday,timer,tag,tage,urlaub,sommer
 ## Description
 Verfolgen Sie kommende und vergangene Veranstaltungen.
 Wählen Sie aus Millionen von Hintergrundbildern oder aus Ihren eigenen Fotos und schmücken Sie die Veranstaltung mit einer Farbe.
-Senden Sie das Ereignis an Freunde und Familie oder teilen Sie es in Ihrer bevorzugten Social-Media-App (tiktok, snapchat, instagram, facebook, twitter, messages usw.).
+Senden Sie das Ereignis an Freunde und Familie oder teilen Sie es in Ihrer bevorzugten Social-Media-App (tiktok, snapchat, instagram, facebook, x, messages usw.).
 
 ::: Eigenschaften
 - Widgets
@@ -16,7 +16,7 @@ Senden Sie das Ereignis an Freunde und Familie oder teilen Sie es in Ihrer bevor
 - Bearbeiten Sie Bilder und fügen Sie Helligkeit und Unschärfe hinzu
 - Sie wählen die Farbe
 - Wunderschönes dynamisches Bild für Tage, Stunden, Minuten und Sekunden
-- Teilen Sie die Veranstaltung in Ihrer Lieblings-App (tiktok, snapchat, instagram, facebook, twitter, Nachrichten usw.)
+- Teilen Sie die Veranstaltung in Ihrer Lieblings-App (tiktok, snapchat, instagram, facebook, x, Nachrichten usw.)
 - Übersicht mit Sortierung
 - Wischen Sie, um das Ereignis zu bearbeiten oder zu löschen
 - Veranstaltung jedes Jahr wiederholen

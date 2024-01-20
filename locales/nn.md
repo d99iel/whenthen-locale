@@ -6,7 +6,7 @@ nedtelling,widget,widgets,hendelse,timer,ferie,sommer,bursdag,moro,del,venn,deg
 ## Description
 Hold oversikt over kommende og tidligere hendelser.
 Velg mellom millioner av bakgrunnsbilder eller fra dine egne bilder og dekorer begivenheten med en farge.
-Send arrangementet til venner og familie eller del det på din favoritt app for sosiale medier (tiktok, snapchat, instagram, facebook, twitter, meldinger, etc).
+Send arrangementet til venner og familie eller del det på din favoritt app for sosiale medier (tiktok, snapchat, instagram, facebook, x, meldinger, etc).
 
 ::: Funksjoner
 - Widgets
@@ -16,7 +16,7 @@ Send arrangementet til venner og familie eller del det på din favoritt app for 
 - Rediger bilder med filtre
 – Du velger farge
 - Dynamisk side for dager, timer, minutter og sekunder
-- Del arrangementet i favorittappen din (tiktok, snapchat, instagram, facebook, twitter, meldinger, etc)
+- Del arrangementet i favorittappen din (tiktok, snapchat, instagram, facebook, x, meldinger, etc)
 - Oversikt med sortering
 - Sveip for å redigere eller slette hendelser
 - Gjenta arrangementer på årlig basis

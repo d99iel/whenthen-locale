@@ -6,7 +6,7 @@ nedtælling, widget, widgets, begivenhed, timer, ferie, sommer, fødselsdag, sjo
 ## Description
 Hold styr på kommende og tidligere begivenheder.
 Vælg mellem millioner af baggrundsbilleder eller dine egne billeder, og dekorer begivenheden med en farve.
-Send begivenheden til venner og familie eller del den på din foretrukne sociale medie-app (tiktok, snapchat, instagram, facebook, twitter, beskeder osv.).
+Send begivenheden til venner og familie eller del den på din foretrukne sociale medie-app (tiktok, snapchat, instagram, facebook, x, beskeder osv.).
 
 ::: Funktioner
 - Widgets
@@ -16,7 +16,7 @@ Send begivenheden til venner og familie eller del den på din foretrukne sociale
 - Rediger billeder med filtre
 - Du vælger farven
 - Dynamisk side for dage, timer, minutter og sekunder
-- Del begivenheden i din yndlingsapp (tiktok, snapchat, instagram, facebook, twitter, beskeder osv.)
+- Del begivenheden i din yndlingsapp (tiktok, snapchat, instagram, facebook, x, beskeder osv.)
 - Overblik med sortering
 - Stryg for at redigere eller slette begivenheder
 - Gentag begivenheder på årsbasis

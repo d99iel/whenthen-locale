@@ -6,7 +6,7 @@ countdown,widget,widgets,räkna ner,nedräkning,event,timer,semester,sommar,föd
 ## Description
 Håll koll på kommande och passerade händelser.
 Välj bland miljontals bakgrundsbilder eller från dina egna foton och dekorera eventet med en färg.
-Skicka eventet till vänner och familj eller dela det i din favoritapp för sociala medier (tiktok, snapchat, instagram, facebook, twitter, meddelanden, etc).
+Skicka eventet till vänner och familj eller dela det i din favoritapp för sociala medier (tiktok, snapchat, instagram, facebook, x, meddelanden, etc).
 
 ::: Funktioner
 - Widgets
@@ -16,7 +16,7 @@ Skicka eventet till vänner och familj eller dela det i din favoritapp för soci
 - Editera bilder med filter
 - Du väljer färg
 - Dynamisk sida för dagar, timmar, minuter och sekunder
-- Dela eventet i din favoritapp (tiktok, snapchat, instagram, facebook, twitter, meddelanden, etc)
+- Dela eventet i din favoritapp (tiktok, snapchat, instagram, facebook, x, meddelanden, etc)
 - Översikt med sortering
 - Swipe:a för att redigera eller ta bort event
 - Repetera event på årsbasis
