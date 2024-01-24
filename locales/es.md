@@ -1,7 +1,16 @@
 # App Store & Google Play
 
+## App Name (30 character limit)
+Whenthen – Cuenta atrás
+
+## App Subtitle (30 character limit)
+Tus eventos en la vida
+
+## App News - default text
+Mejoras de rendimiento y corrección de errores.
+
 ## Keywords (100 character limit)
-cuenta regresiva,widget,recuento,evento,días,vacaciones,verano,invierno,cumpleaños,diversión,compartir
+cuenta regresiva,widget,recuento,evento,días,vacaciones,verano,invierno,cumpleaños,diversión
 
 ## Description
 Mantenga un registro de los eventos pasados y próximos.

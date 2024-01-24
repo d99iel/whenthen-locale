@@ -1,5 +1,14 @@
 # App Store & Google Play
 
+## App Name (30 character limit)
+Whenthen – Countdowns
+
+## App Subtitle (30 character limit)
+Your events in life
+
+## App News - default text
+Performance improvements and bug fixes.
+
 ## Keywords (100 character limit)
 countdown,widget,widgets,count,event,events,timer,day,days,vacation,summer,winter,birthday,fun,share
 

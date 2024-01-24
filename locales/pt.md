@@ -1,7 +1,16 @@
 # App Store & Google Play
 
+## App Name (30 character limit)
+Whenthen – Contagem regressiva
+
+## App Subtitle (30 character limit)
+Seus eventos na vida
+
+## App News - default text
+Melhorias de desempenho e correções de bugs.
+
 ## Keywords (100 character limit)
-contagem regressiva,widget,widgets,contagem,evento,eventos,temporizador,dia,dias,férias,verão,inverno,aniversário,diversão,compartilhar
+contagem regressiva,widget,widgets,contagem,evento,eventos,temporizador,dia,dias,férias,verão
 
 ## Description
 Acompanhe os eventos futuros e passados.

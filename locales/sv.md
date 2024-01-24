@@ -1,5 +1,14 @@
 # App Store & Google Play
 
+## App Name (30 character limit)
+Whenthen – Nedräkningar
+
+## App Subtitle (30 character limit)
+Dina händelser i livet
+
+## App News - default text
+Prestandaförbättringar och buggfixar.
+
 ## Keywords (100 character limit)
 countdown,widget,widgets,räkna ner,nedräkning,event,timer,semester,sommar,födelsedag,kul,dela,vän,du
 

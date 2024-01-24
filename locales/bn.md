@@ -1,5 +1,14 @@
 # App Store & Google Play
 
+## App Name (30 character limit)
+Whenthen – কাউন্টডাউন
+
+## App Subtitle (30 character limit)
+আপনার জীবনের ঘটনা
+
+## App News - default text
+কর্মক্ষমতা উন্নতি এবং বাগ সংশোধন.
+
 ## Keywords (100 character limit)
 কাউন্টডাউন,উইজেট,উইজেট,গণনা,ইভেন্ট,ইভেন্ট,টাইমার,দিন,দিন,ছুটি,গ্রীষ্ম,শীত,জন্মদিন,মজা,ভাগ
 

@@ -1,5 +1,14 @@
 # App Store & Google Play
 
+## App Name (30 character limit)
+Whenthen – 倒计时
+
+## App Subtitle (30 character limit)
+您生活中的事件
+
+## App News - default text
+性能改进和错误修复。
+
 ## Keywords (100 character limit)
 倒计时，小部件，小部件，计数，事件，事件，计时器，一天，天，假期，夏天，冬天，生日，乐趣，分享
 

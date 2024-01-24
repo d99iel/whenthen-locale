@@ -1,5 +1,14 @@
 # App Store & Google Play
 
+## App Name (30 character limit)
+Whenthen – Nedtellinger
+
+## App Subtitle (30 character limit)
+Dine hendelser i livet
+
+## App News - default text
+Ytelsesforbedringer og feilrettinger.
+
 ## Keywords (100 character limit)
 nedtelling,widget,widgets,hendelse,timer,ferie,sommer,bursdag,moro,del,venn,deg
 

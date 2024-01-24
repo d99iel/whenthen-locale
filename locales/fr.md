@@ -1,5 +1,14 @@
 # App Store & Google Play
 
+## App Name (30 character limit)
+Whenthen – Comptes à rebours
+
+## App Subtitle (30 character limit)
+Vos événements de la vie
+
+## App News - default text
+Améliorations des performances et corrections de bugs.
+
 ## Keywords (100 character limit)
 compte à rebours, widget, compte, événement, jours, vacances, été, hiver, anniversaire, amusement, partager
 

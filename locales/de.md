@@ -1,5 +1,14 @@
 # App Store & Google Play
 
+## App Name (30 character limit)
+Whenthen – Nedtællinger
+
+## App Subtitle (30 character limit)
+Ihre Ereignisse im Leben
+
+## App News - default text
+Leistungsverbesserungen und Fehlerbehebungen.
+
 ## Keywords (100 character limit)
 countdown,widget,widgets,zählung,ereignis,birthday,timer,tag,tage,urlaub,sommer,winter,spaß,teilen
 
